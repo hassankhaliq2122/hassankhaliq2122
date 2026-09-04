@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./gemini-svg.svg" alt="Hassan Khaliq GitHub Banner" width="100%">
+</p>
+
 # Hi, I'm Hassan Khaliq 👋
 
 ### Full-Stack Developer
