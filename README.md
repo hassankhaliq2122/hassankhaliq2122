@@ -32,21 +32,34 @@ interfaces, practical architecture, and meaningful functionality.
 ## 🛠 Tech Stack
 
 ### Frontend
-JavaScript · React · HTML · CSS · Tailwind CSS · GSAP · Framer Motion
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+### Animation & Creative Development
+<p>
+  <img src="https://skillicons.dev/icons?i=gsap" />
+</p>
 
 ### Backend
-Node.js · Express · REST APIs · Socket.io
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-MongoDB · MongoDB Atlas · PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
 ### Tools & Services
-Git · GitHub · Vite · Cloudinary · Netlify · Railway
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,railway,cloudinary" />
+</p>
 
 ### Currently Learning
-Python · Django · Backend Engineering · Machine Learning · Deep Learning
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
 ## 🚀 Featured Projects
 
