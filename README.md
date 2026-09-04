@@ -148,7 +148,7 @@ forms, CRUD operations, and API integration.
 
 ## 🎯 My Development Journey
 
-```text
+
 HTML / CSS / JavaScript
           ↓
         React
@@ -164,19 +164,25 @@ Machine Learning
    Deep Learning / AI
 
 
-🔭 Currently Working On
-Building full-stack applications with React and Node.js
-Improving backend and API architecture
-Developing SaaS-style applications
-Strengthening my Git & GitHub workflow
-Preparing to move deeper into Python and AI
+---
 
-🤝 Let's Connect
+## 🔭 Currently Working On
 
-🌐 Portfolio
+* 🚀 Building full-stack applications with React and Node.js
+* ⚙️ Improving backend and API architecture
+* 🏢 Developing SaaS-style applications
+* 🔧 Strengthening my Git & GitHub workflow
+* 🐍 Preparing to move deeper into Python and AI
 
-💼 LinkedIn
+---
 
-🏢 MetaTrybe
+## 🤝 Let's Connect
 
-⭐ Thanks for visiting my profile!
+* 🌐 **Portfolio**
+* 💼 **LinkedIn**
+* 🏢 **MetaTrybe**
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
