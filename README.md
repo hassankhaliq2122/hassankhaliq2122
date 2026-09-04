@@ -119,6 +119,23 @@ forms, CRUD operations, and API integration.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hassankhaliq2122&show_icons=true&hide_border=true&theme=transparent"
+    height="170"
+    alt="Hassan's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankhaliq2122&layout=compact&hide_border=true&theme=transparent"
+    height="170"
+    alt="Hassan's Top Languages"
+  />
+</p>
+
+---
+
 ## 📚 Currently Learning
 
 - Python
@@ -145,3 +162,21 @@ Python & Backend
 Machine Learning
           ↓
    Deep Learning / AI
+
+
+🔭 Currently Working On
+Building full-stack applications with React and Node.js
+Improving backend and API architecture
+Developing SaaS-style applications
+Strengthening my Git & GitHub workflow
+Preparing to move deeper into Python and AI
+
+🤝 Let's Connect
+
+🌐 Portfolio
+
+💼 LinkedIn
+
+🏢 MetaTrybe
+
+⭐ Thanks for visiting my profile!
