@@ -7,13 +7,15 @@
 
 ### Full-Stack Developer
 
-I build modern web applications, SaaS platforms, interactive dashboards, and
-creative web experiences.
+I build modern web applications, SaaS platforms, interactive dashboards,
+and creative digital experiences.
 
-I'm currently focused on React, JavaScript, Node.js, Express, and MongoDB,
-while expanding my skills in Python, backend engineering, and AI.
+My current focus is **React, JavaScript, Node.js, Express, and MongoDB**.
+I'm also expanding into **Python and backend engineering**, with a long-term
+focus on **Machine Learning and AI**.
 
----
+I enjoy turning ideas into production-ready applications with clean
+interfaces, practical architecture, and meaningful functionality.
 
 ## 🚀 What I Build
 
