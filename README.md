@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./gemini-svg.svg" alt="Hassan Khaliq GitHub Banner" width="100%">
 </p>
@@ -17,6 +16,8 @@ focus on **Machine Learning and AI**.
 I enjoy turning ideas into production-ready applications with clean
 interfaces, practical architecture, and meaningful functionality.
 
+---
+
 ## 🚀 What I Build
 
 - Full-stack web applications
@@ -32,60 +33,89 @@ interfaces, practical architecture, and meaningful functionality.
 ## 🛠 Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ### Animation & Creative Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=gsap" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
 ### Tools & Services
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,netlify,railway,cloudinary" />
 </p>
 
 ### Currently Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
-### SwissEmbro SaaS
-A full-stack SaaS platform for managing embroidery and patch orders,
-customers, employees, and administration.
+### 🏢 SwissEmbro SaaS
 
-**React · Node.js · Express · MongoDB · Socket.io**
+A full-stack SaaS platform designed for managing embroidery and patch
+business operations, including customers, orders, employees,
+notifications, and administration.
 
-### LI Agent
-An AI-powered platform focused on LinkedIn lead generation and
-intelligent workflow management.
+**React · Node.js · Express · MongoDB · Socket.io · Cloudinary**
 
-**React · AI · APIs · Backend**
+---
 
-### E-commerce Profit Dashboard
-A dashboard for tracking revenue, expenses, product costs, and
-business profitability.
+### 🤖 LI Agent
 
-**React · JavaScript · Data Visualization**
+An AI-powered lead generation platform designed around intelligent
+workflows and LinkedIn-focused business processes.
 
-### MetaTrybe
+**React · JavaScript · AI · APIs · Backend**
+
+---
+
+### 📊 E-commerce Profit Dashboard
+
+A business dashboard for tracking revenue, product costs, expenses,
+earnings, and overall profitability.
+
+**React · JavaScript · Recharts**
+
+---
+
+### 🎨 MetaTrybe
+
 A modern digital agency platform focused on interactive design,
-motion, and web development.
+motion, and premium web experiences.
 
-**React · Vite · GSAP · Modern UI**
+**React · Vite · GSAP · Framer Motion**
+
+---
+
+### ⚡ React Projects
+
+A collection of React applications built while developing
+strong foundations in component architecture, state management,
+forms, CRUD operations, and API integration.
+
+**React · JavaScript · React Router · REST APIs**
 
 ---
 
@@ -106,12 +136,12 @@ HTML / CSS / JavaScript
           ↓
         React
           ↓
-    Full-Stack / MERN
+   Full-Stack / MERN
           ↓
-Python / Backend
+Python & Backend
           ↓
-Django
+      Django
           ↓
 Machine Learning
           ↓
-Deep Learning / AI
+   Deep Learning / AI
