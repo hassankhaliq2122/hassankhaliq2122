@@ -148,7 +148,7 @@ forms, CRUD operations, and API integration.
 
 ## 🎯 My Development Journey
 
-
+```
 HTML / CSS / JavaScript
           ↓
         React
@@ -162,7 +162,7 @@ Python & Backend
 Machine Learning
           ↓
    Deep Learning / AI
-
+```
 
 ---
 
